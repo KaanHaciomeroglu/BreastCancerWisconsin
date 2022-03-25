@@ -1,3 +1,3 @@
-3.Sınıf Breast Cancer Wisconsin projemiz.		    
+Breast Cancer Wisconsin verisi incelemesi		    
 https://github.com/FurkanKtk		    
 https://github.com/Halil-ibrahim-altuntas		    
